@@ -17,6 +17,18 @@ Administrators represent the strategic nerve center of the Event Manager Applica
 
 ![image](https://github.com/user-attachments/assets/1eac3bf9-99f9-47cd-a51a-dc16abd8beb1)
 
+## Frontend Snippet
+### User Dashboard
+Some of the Snippets of User Dashboard are, 
+![image](https://github.com/user-attachments/assets/cf3b84c8-43a9-4ff0-8a42-7912d3a634aa)
+![image](https://github.com/user-attachments/assets/de5b0a48-ebdb-4540-b6fc-09aa2f5785d3)
+
+### Admin Dashboard
+Some of the Snippets of Admin Dashboard are, 
+![image](https://github.com/user-attachments/assets/77638349-f1bf-4904-9c6b-53e3a7d3f673)
+![image](https://github.com/user-attachments/assets/8a3ecb6e-5bb3-44e0-9029-9856081175b6)
+
+
 ## Key System Principles
 
 1. Role-Based Access Control
