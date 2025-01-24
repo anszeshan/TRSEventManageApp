@@ -1,5 +1,6 @@
 # TRSEventManageApp
 The Event Manager Application is a comprehensive web platform designed to simplify event management, discovery, and participation. It provides robust features for both regular users and administrators, creating an intuitive and secure event ecosystem.
+## Frontend Access on : https://trs-event-system-mzk5.vercel.app/
 
 # User Roles in Event Manager Application
 
