@@ -12,6 +12,10 @@ Regular users form the vibrant core of the Event Manager Application, transformi
 ## Administrators: The System's Guardians and Architects
 Administrators represent the strategic nerve center of the Event Manager Application, wielding comprehensive control and oversight across the entire platform ecosystem. Unlike other user roles, administrators have a macro-level perspective, enabling them to monitor, manage, and optimize the entire system's performance and user experience. Their dashboard is a sophisticated command center displaying real-time metrics, user activities, event statuses, and system health indicators. With granular user management capabilities, administrators can activate or deactivate accounts, track user behaviors, and ensure platform integrity. The event governance features allow them to approve or reject event submissions, feature selective events, and dynamically manage event categories. Beyond operational control, administrators are also the platform's strategic architects, leveraging advanced analytics and insights to understand usage patterns, identify trends, and make data-driven decisions that enhance the overall platform experience. Their role is not just about control, but about nurturing a healthy, growing community by maintaining high standards of quality, safety, and engagement.
 
+## Some Visuals of Roles
+
+![image](https://github.com/user-attachments/assets/1eac3bf9-99f9-47cd-a51a-dc16abd8beb1)
+
 ## Key System Principles
 
 1. Role-Based Access Control
