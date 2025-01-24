@@ -1,65 +1,16 @@
 # TRSEventManageApp
 The Event Manager Application is a comprehensive web platform designed to simplify event management, discovery, and participation. It provides robust features for both regular users and administrators, creating an intuitive and secure event ecosystem.
 
-Anonymous User
-│
-├── Browse Public Events
-│   └── View Event Details
-│
-├── Authentication
-│   ├── Login
-│   ├── Register
-└── Limited Event Information
+# User Roles in Event Manager Application
 
-Regular User (Extends Anonymous User)
-├── User Daahboard
-├── Full Event Access 
-│   ├── Register for Events
-│   ├── Cancel Registrations
-│   └── View Detailed Event Information
-│
-├── Personal Profile Management
-│   ├── Edit Profile
-│   ├── Change Password
-│   └── View Event History
-│
-├── Event Management
-│   ├── Edit Event
-│   ├── Create Event
-│   └── Delete Event
-│   └── Update Event
-│
-├── Ticket Management
-│   ├── Make Ticket
-│   ├── Get Ticket
-│   └── Delete Ticket
-|
-├── BookMark Management
-│   ├── Add Event to Bookmark
-│   ├── Remove events from bookmark
-│   └── View Details
-└── Event Interaction Capabilities
-|
-├── Advanced Filterations
+## Anonymous Users: The Gateway to Discovery
+Anonymous users represent the initial touchpoint of our Event Manager Application, serving as a bridge between casual exploration and active platform engagement. These users are granted a limited yet intriguing view of the platform's capabilities, designed to spark curiosity and encourage registration. When an anonymous user visits the platform, they can browse public events, view basic event details, and get a glimpse of upcoming gatherings across various categories. The authentication pathways are strategically designed to be inviting, offering seamless login, registration, and password recovery options. While their interactions are intentionally restricted, the experience is crafted to provide just enough information and excitement to motivate users to create an account and unlock the full potential of the Event Manager ecosystem.
 
-Administrator (Full System Control)
-├── Admin Daahboard
-├── User Management
-│   ├── View User Lists
-│   ├── Activate/Deactivate Users
-│   └── Monitor User Activities
-│
-├── Event Governance
-│   ├── Approve/Reject Events
-│   ├── Feature Events
-│   └── Manage Event Categories
-│
-└── System Insights
-|  ├── Analytics
-|  └── System Health Monitoring
-|
-├── Advanced Filterations
+## Regular Users: The Platform's Active Participants
+Regular users form the vibrant core of the Event Manager Application, transforming from passive observers to active community members with comprehensive interaction capabilities. Once authenticated, these users gain access to a rich, personalized ecosystem of event management and social engagement. Their journey begins with a personalized dashboard that offers a holistic view of their event interactions, upcoming registrations, and participation history. Regular users can create, edit, and manage their own events, register for interesting gatherings, and maintain complete control over their event experience. The platform empowers them with advanced features like ticket management, bookmark collections, and sophisticated event filtering. Their profile becomes a dynamic portfolio of their event interests, tracking everything from past participation to future aspirations. The user experience is designed to be intuitive, engaging, and highly personalized, making event discovery and management not just a task, but an enjoyable, meaningful journey.
 
+## Administrators: The System's Guardians and Architects
+Administrators represent the strategic nerve center of the Event Manager Application, wielding comprehensive control and oversight across the entire platform ecosystem. Unlike other user roles, administrators have a macro-level perspective, enabling them to monitor, manage, and optimize the entire system's performance and user experience. Their dashboard is a sophisticated command center displaying real-time metrics, user activities, event statuses, and system health indicators. With granular user management capabilities, administrators can activate or deactivate accounts, track user behaviors, and ensure platform integrity. The event governance features allow them to approve or reject event submissions, feature selective events, and dynamically manage event categories. Beyond operational control, administrators are also the platform's strategic architects, leveraging advanced analytics and insights to understand usage patterns, identify trends, and make data-driven decisions that enhance the overall platform experience. Their role is not just about control, but about nurturing a healthy, growing community by maintaining high standards of quality, safety, and engagement.
 
 ## Key System Principles
 
